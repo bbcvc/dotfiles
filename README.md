@@ -32,3 +32,12 @@ User chenglong.xing
 IdentityFile C:\\Users\\username\\.ssh\\id_rsa
 ```
 
+### cmd
+其实可以安装cmder, 只是最快捷提升cmd体验的方法
+参考文章：https://zhuanlan.zhihu.com/p/71706782
+```bash
+scoop install sudo # 提升权限
+sudo scoop install cmder-full -g
+```
+
+cmder集成了git clink(命令行提示 补全 历史记录工具)
